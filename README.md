@@ -1,6 +1,6 @@
 <h1>
+  <img src="./assets/duck.png" height="95" alt="Утка">
   Привет, меня зовут Катя!
-  <img src="./assets/duck.png" height="45" alt="Утка">
 </h1>
 
 Свой путь во frontend-разработке начала с самостоятельного изучения HTML и CSS по книге Элизабет Робсон, после чего поступила на курс профессиональной переподготовки по направлению «Frontend-разработчик».
@@ -77,8 +77,9 @@
 <p align="center">
   <a href="https://github.com/PM-YandexPracticum/SkillSwap_54_2">
     <img
-      src="./assets/skillswap-cover.png"
-      width="760"
+      src="./assets/skillswap.png"
+      height="320"
+      width="460"
       alt="Интерфейс приложения SkillSwap"
     >
   </a>
@@ -104,8 +105,9 @@
 <p align="center">
   <a href="https://github.com/EkaterinaDiachenko/weblarek">
     <img
-      src="./assets/weblarek-cover.png"
-      width="760"
+      src="./assets/weblarek.png"
+      height="320"
+      width="460"
       alt="Интерфейс интернет-магазина Web-ларёк"
     >
   </a>
@@ -127,16 +129,6 @@
 
 ### 03 — Закрывающий тег
 **Закрывающий тег** — адаптивная страница по макету Figma с несколькими цветовыми темами, анимациями и интерактивными элементами.
-
-<p align="center">
-  <a href="https://github.com/EkaterinaDiachenko/zakrivayuschiy-teg-f">
-    <img
-      src="./assets/closing-tag-cover.png"
-      width="760"
-      alt="Интерфейс проекта Закрывающий тег"
-    >
-  </a>
-</p>
 
 **Мой вклад:** реализовала адаптивную вёрстку, переключение темы, анимацию кнопок и модальное окно.
 
