@@ -18,11 +18,11 @@
 #
 > ### Качаю навыки во frontend с тем же упорством, с которым повышаю рабочие веса 💪
 
- <p align="center">
+ <p align="left">
   <img
-    src="./assets/ono-samo.png"
-    width="400"
-    alt="Я ничего не нажимала — оно само"
+    src="./assets/duck-programmer.png"
+    width="200"
+    alt="Утка программирует"
   >
 </p>
 
